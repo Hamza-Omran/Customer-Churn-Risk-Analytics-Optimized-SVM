@@ -299,25 +299,29 @@ Opens at `http://localhost:8501`
 ### Dashboard Home
 *Professional overview with metrics and academic context*
 
-![Dashboard](results/figures/model_comparison.png)
+<img width="1914" height="970" alt="image" src="https://github.com/user-attachments/assets/b836b5c9-0f25-4cf7-b762-1564de86c39d" />
+
 
 ### Model Performance Comparison
 *Side-by-side accuracy and training time analysis*
 
+<img width="4167" height="1470" alt="image" src="https://github.com/user-attachments/assets/bcf96213-bc32-41e4-b1e5-68f760a7148d" />
+
+
 ### Convergence Analysis
 *Loss curves showing optimization behavior*
 
-![Convergence](results/figures/convergence.png)
+<img width="2967" height="1768" alt="image" src="https://github.com/user-attachments/assets/4d0bf24e-29be-4c99-8da6-270e02552432" />
 
 ### Confusion Matrices
 *Error analysis across all three models*
 
-![Confusion Matrices](results/figures/confusion_matrices.png)
+<img width="4426" height="1168" alt="image" src="https://github.com/user-attachments/assets/df010ba4-cc65-4706-89c8-108686447446" />
 
 ### ROC Curve
 *Probability calibration for sklearn SVM*
 
-![ROC Curve](results/figures/roc_curve.png)
+<img width="2367" height="1768" alt="image" src="https://github.com/user-attachments/assets/8f9ce7e7-ac69-47f6-a48b-abab60cb77d9" />
 
 ---
 
