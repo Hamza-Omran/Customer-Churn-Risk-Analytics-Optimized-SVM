@@ -77,16 +77,23 @@ A production-ready Streamlit application provides:
 ```bash
 pip install -r requirements.txt
 streamlit run deployment/app.py
+````
 
 ---
 
 ## Interface Preview
 
--- Selected screenshots from the deployed application, illustrating system functionality and analytical capabilities rather than UI design.
+Selected screenshots from the deployed application, illustrating **system functionality and analytical capabilities** rather than UI design.
 
--- Dashboard Overview
+### Dashboard Overview
+
 <img src="https://github.com/user-attachments/assets/b836b5c9-0f25-4cf7-b762-1564de86c39d" width="800"/>
--- Model Performance Comparison
+
+### Model Performance Comparison
+
 <img src="https://github.com/user-attachments/assets/bcf96213-bc32-41e4-b1e5-68f760a7148d" width="800"/>
--- Optimization Convergence Analysis
+
+### Optimization Convergence Analysis
+
 <img src="https://github.com/user-attachments/assets/4d0bf24e-29be-4c99-8da6-270e02552432" width="800"/>
+
